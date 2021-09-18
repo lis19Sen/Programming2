@@ -1,0 +1,10 @@
+H:\programming 2\lis19\Show Goy\CHECKPOINT10\BouncingSharps\BouncingSharps\bin\Debug\BouncingSharps.exe.config
+H:\programming 2\lis19\Show Goy\CHECKPOINT10\BouncingSharps\BouncingSharps\bin\Debug\BouncingSharps.exe
+H:\programming 2\lis19\Show Goy\CHECKPOINT10\BouncingSharps\BouncingSharps\bin\Debug\BouncingSharps.pdb
+H:\programming 2\lis19\Show Goy\CHECKPOINT10\BouncingSharps\BouncingSharps\obj\Debug\BouncingSharps.csprojResolveAssemblyReference.cache
+H:\programming 2\lis19\Show Goy\CHECKPOINT10\BouncingSharps\BouncingSharps\obj\Debug\BouncingSharps.Form1.resources
+H:\programming 2\lis19\Show Goy\CHECKPOINT10\BouncingSharps\BouncingSharps\obj\Debug\BouncingSharps.Properties.Resources.resources
+H:\programming 2\lis19\Show Goy\CHECKPOINT10\BouncingSharps\BouncingSharps\obj\Debug\BouncingSharps.csproj.GenerateResource.Cache
+H:\programming 2\lis19\Show Goy\CHECKPOINT10\BouncingSharps\BouncingSharps\obj\Debug\BouncingSharps.csproj.CoreCompileInputs.cache
+H:\programming 2\lis19\Show Goy\CHECKPOINT10\BouncingSharps\BouncingSharps\obj\Debug\BouncingSharps.exe
+H:\programming 2\lis19\Show Goy\CHECKPOINT10\BouncingSharps\BouncingSharps\obj\Debug\BouncingSharps.pdb

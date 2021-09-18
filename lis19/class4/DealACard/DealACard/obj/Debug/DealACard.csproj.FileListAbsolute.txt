@@ -1,0 +1,20 @@
+H:\programming 2\lis19\class4\DealACard\DealACard\bin\Debug\DealACard.exe.config
+H:\programming 2\lis19\class4\DealACard\DealACard\bin\Debug\DealACard.exe
+H:\programming 2\lis19\class4\DealACard\DealACard\bin\Debug\DealACard.pdb
+H:\programming 2\lis19\class4\DealACard\DealACard\obj\Debug\DealACard.csprojAssemblyReference.cache
+H:\programming 2\lis19\class4\DealACard\DealACard\obj\Debug\DealACard.Form1.resources
+H:\programming 2\lis19\class4\DealACard\DealACard\obj\Debug\DealACard.Properties.Resources.resources
+H:\programming 2\lis19\class4\DealACard\DealACard\obj\Debug\DealACard.csproj.GenerateResource.cache
+H:\programming 2\lis19\class4\DealACard\DealACard\obj\Debug\DealACard.csproj.CoreCompileInputs.cache
+H:\programming 2\lis19\class4\DealACard\DealACard\obj\Debug\DealACard.exe
+H:\programming 2\lis19\class4\DealACard\DealACard\obj\Debug\DealACard.pdb
+H:\Language and Year 1\programming 2\lis19\class4\DealACard\DealACard\bin\Debug\DealACard.exe.config
+H:\Language and Year 1\programming 2\lis19\class4\DealACard\DealACard\bin\Debug\DealACard.exe
+H:\Language and Year 1\programming 2\lis19\class4\DealACard\DealACard\bin\Debug\DealACard.pdb
+H:\Language and Year 1\programming 2\lis19\class4\DealACard\DealACard\obj\Debug\DealACard.csprojAssemblyReference.cache
+H:\Language and Year 1\programming 2\lis19\class4\DealACard\DealACard\obj\Debug\DealACard.Form1.resources
+H:\Language and Year 1\programming 2\lis19\class4\DealACard\DealACard\obj\Debug\DealACard.Properties.Resources.resources
+H:\Language and Year 1\programming 2\lis19\class4\DealACard\DealACard\obj\Debug\DealACard.csproj.GenerateResource.cache
+H:\Language and Year 1\programming 2\lis19\class4\DealACard\DealACard\obj\Debug\DealACard.csproj.CoreCompileInputs.cache
+H:\Language and Year 1\programming 2\lis19\class4\DealACard\DealACard\obj\Debug\DealACard.exe
+H:\Language and Year 1\programming 2\lis19\class4\DealACard\DealACard\obj\Debug\DealACard.pdb

@@ -1,0 +1,10 @@
+H:\programming 2\class3\redo Animal\Animal\Animal\bin\Debug\Animal.exe.config
+H:\programming 2\class3\redo Animal\Animal\Animal\bin\Debug\Animal.exe
+H:\programming 2\class3\redo Animal\Animal\Animal\bin\Debug\Animal.pdb
+H:\programming 2\class3\redo Animal\Animal\Animal\obj\Debug\Animal.Properties.Resources.resources
+H:\programming 2\class3\redo Animal\Animal\Animal\obj\Debug\Animal.csproj.GenerateResource.cache
+H:\programming 2\class3\redo Animal\Animal\Animal\obj\Debug\Animal.csproj.CoreCompileInputs.cache
+H:\programming 2\class3\redo Animal\Animal\Animal\obj\Debug\Animal.exe
+H:\programming 2\class3\redo Animal\Animal\Animal\obj\Debug\Animal.pdb
+H:\programming 2\class3\redo Animal\Animal\Animal\obj\Debug\Animal.csprojResolveAssemblyReference.cache
+H:\programming 2\class3\redo Animal\Animal\Animal\obj\Debug\Animal.Form1.resources

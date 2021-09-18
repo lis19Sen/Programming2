@@ -1,0 +1,10 @@
+H:\programming 2\lis19\class15\TrafficLights\TrafficLights\obj\Debug\TrafficLights.Form1.resources
+H:\programming 2\lis19\class15\TrafficLights\TrafficLights\obj\Debug\TrafficLights.Properties.Resources.resources
+H:\programming 2\lis19\class15\TrafficLights\TrafficLights\obj\Debug\TrafficLights.csproj.GenerateResource.cache
+H:\programming 2\lis19\class15\TrafficLights\TrafficLights\obj\Debug\TrafficLights.csproj.CoreCompileInputs.cache
+H:\programming 2\lis19\class15\TrafficLights\TrafficLights\bin\Debug\TrafficLights.exe.config
+H:\programming 2\lis19\class15\TrafficLights\TrafficLights\bin\Debug\TrafficLights.exe
+H:\programming 2\lis19\class15\TrafficLights\TrafficLights\bin\Debug\TrafficLights.pdb
+H:\programming 2\lis19\class15\TrafficLights\TrafficLights\obj\Debug\TrafficLights.exe
+H:\programming 2\lis19\class15\TrafficLights\TrafficLights\obj\Debug\TrafficLights.pdb
+H:\programming 2\lis19\class15\TrafficLights\TrafficLights\obj\Debug\TrafficLights.csprojResolveAssemblyReference.cache

@@ -1,0 +1,10 @@
+H:\programming 2\lis19\class26\FindTweety\FindTweety\bin\Debug\FindTweety.exe.config
+H:\programming 2\lis19\class26\FindTweety\FindTweety\bin\Debug\FindTweety.exe
+H:\programming 2\lis19\class26\FindTweety\FindTweety\bin\Debug\FindTweety.pdb
+H:\programming 2\lis19\class26\FindTweety\FindTweety\obj\Debug\FindTweety.csprojAssemblyReference.cache
+H:\programming 2\lis19\class26\FindTweety\FindTweety\obj\Debug\FindTweety.Form1.resources
+H:\programming 2\lis19\class26\FindTweety\FindTweety\obj\Debug\FindTweety.Properties.Resources.resources
+H:\programming 2\lis19\class26\FindTweety\FindTweety\obj\Debug\FindTweety.csproj.GenerateResource.cache
+H:\programming 2\lis19\class26\FindTweety\FindTweety\obj\Debug\FindTweety.csproj.CoreCompileInputs.cache
+H:\programming 2\lis19\class26\FindTweety\FindTweety\obj\Debug\FindTweety.exe
+H:\programming 2\lis19\class26\FindTweety\FindTweety\obj\Debug\FindTweety.pdb

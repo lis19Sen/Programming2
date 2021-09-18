@@ -1,0 +1,10 @@
+H:\programming 2\lis19\class 8\graphics class\graphics class\bin\Debug\graphics class.exe.config
+H:\programming 2\lis19\class 8\graphics class\graphics class\bin\Debug\graphics class.exe
+H:\programming 2\lis19\class 8\graphics class\graphics class\bin\Debug\graphics class.pdb
+H:\programming 2\lis19\class 8\graphics class\graphics class\obj\Debug\graphics_class.Form1.resources
+H:\programming 2\lis19\class 8\graphics class\graphics class\obj\Debug\graphics_class.Properties.Resources.resources
+H:\programming 2\lis19\class 8\graphics class\graphics class\obj\Debug\graphics class.csproj.GenerateResource.cache
+H:\programming 2\lis19\class 8\graphics class\graphics class\obj\Debug\graphics class.csproj.CoreCompileInputs.cache
+H:\programming 2\lis19\class 8\graphics class\graphics class\obj\Debug\graphics class.exe
+H:\programming 2\lis19\class 8\graphics class\graphics class\obj\Debug\graphics class.pdb
+H:\programming 2\lis19\class 8\graphics class\graphics class\obj\Debug\graphics class.csprojResolveAssemblyReference.cache

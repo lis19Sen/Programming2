@@ -1,0 +1,9 @@
+H:\programming 2\lis19\class15\MenuDome\MenuDome\bin\Debug\MenuDome.exe.config
+H:\programming 2\lis19\class15\MenuDome\MenuDome\bin\Debug\MenuDome.exe
+H:\programming 2\lis19\class15\MenuDome\MenuDome\bin\Debug\MenuDome.pdb
+H:\programming 2\lis19\class15\MenuDome\MenuDome\obj\Debug\MenuDome.Form1.resources
+H:\programming 2\lis19\class15\MenuDome\MenuDome\obj\Debug\MenuDome.Properties.Resources.resources
+H:\programming 2\lis19\class15\MenuDome\MenuDome\obj\Debug\MenuDome.csproj.GenerateResource.Cache
+H:\programming 2\lis19\class15\MenuDome\MenuDome\obj\Debug\MenuDome.csproj.CoreCompileInputs.cache
+H:\programming 2\lis19\class15\MenuDome\MenuDome\obj\Debug\MenuDome.exe
+H:\programming 2\lis19\class15\MenuDome\MenuDome\obj\Debug\MenuDome.pdb

@@ -1,0 +1,10 @@
+H:\programming 2\lis19\class14\CHECKPOINT12\TestMarkSumariser\TestMarkSumariser\bin\Debug\TestMarkSumariser.exe.config
+H:\programming 2\lis19\class14\CHECKPOINT12\TestMarkSumariser\TestMarkSumariser\bin\Debug\TestMarkSumariser.exe
+H:\programming 2\lis19\class14\CHECKPOINT12\TestMarkSumariser\TestMarkSumariser\bin\Debug\TestMarkSumariser.pdb
+H:\programming 2\lis19\class14\CHECKPOINT12\TestMarkSumariser\TestMarkSumariser\obj\Debug\TestMarkSumariser.csprojAssemblyReference.cache
+H:\programming 2\lis19\class14\CHECKPOINT12\TestMarkSumariser\TestMarkSumariser\obj\Debug\TestMarkSumariser.Form1.resources
+H:\programming 2\lis19\class14\CHECKPOINT12\TestMarkSumariser\TestMarkSumariser\obj\Debug\TestMarkSumariser.Properties.Resources.resources
+H:\programming 2\lis19\class14\CHECKPOINT12\TestMarkSumariser\TestMarkSumariser\obj\Debug\TestMarkSumariser.csproj.GenerateResource.cache
+H:\programming 2\lis19\class14\CHECKPOINT12\TestMarkSumariser\TestMarkSumariser\obj\Debug\TestMarkSumariser.csproj.CoreCompileInputs.cache
+H:\programming 2\lis19\class14\CHECKPOINT12\TestMarkSumariser\TestMarkSumariser\obj\Debug\TestMarkSumariser.exe
+H:\programming 2\lis19\class14\CHECKPOINT12\TestMarkSumariser\TestMarkSumariser\obj\Debug\TestMarkSumariser.pdb

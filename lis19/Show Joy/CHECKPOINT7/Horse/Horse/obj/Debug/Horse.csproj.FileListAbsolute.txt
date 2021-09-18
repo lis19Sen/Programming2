@@ -1,0 +1,10 @@
+H:\programming 2\lis19\class7\NEWCHECKPOINT7\Horse\Horse\bin\Debug\Horse.exe.config
+H:\programming 2\lis19\class7\NEWCHECKPOINT7\Horse\Horse\bin\Debug\Horse.exe
+H:\programming 2\lis19\class7\NEWCHECKPOINT7\Horse\Horse\bin\Debug\Horse.pdb
+H:\programming 2\lis19\class7\NEWCHECKPOINT7\Horse\Horse\obj\Debug\Horse.Form1.resources
+H:\programming 2\lis19\class7\NEWCHECKPOINT7\Horse\Horse\obj\Debug\Horse.Properties.Resources.resources
+H:\programming 2\lis19\class7\NEWCHECKPOINT7\Horse\Horse\obj\Debug\Horse.csproj.GenerateResource.cache
+H:\programming 2\lis19\class7\NEWCHECKPOINT7\Horse\Horse\obj\Debug\Horse.csproj.CoreCompileInputs.cache
+H:\programming 2\lis19\class7\NEWCHECKPOINT7\Horse\Horse\obj\Debug\Horse.exe
+H:\programming 2\lis19\class7\NEWCHECKPOINT7\Horse\Horse\obj\Debug\Horse.pdb
+H:\programming 2\lis19\class7\NEWCHECKPOINT7\Horse\Horse\obj\Debug\Horse.csprojResolveAssemblyReference.cache

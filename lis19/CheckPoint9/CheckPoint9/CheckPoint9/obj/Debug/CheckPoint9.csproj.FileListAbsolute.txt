@@ -1,0 +1,10 @@
+H:\programming 2\lis19\CheckPoint9\CheckPoint9\CheckPoint9\bin\Debug\CheckPoint9.exe.config
+H:\programming 2\lis19\CheckPoint9\CheckPoint9\CheckPoint9\bin\Debug\CheckPoint9.exe
+H:\programming 2\lis19\CheckPoint9\CheckPoint9\CheckPoint9\bin\Debug\CheckPoint9.pdb
+H:\programming 2\lis19\CheckPoint9\CheckPoint9\CheckPoint9\obj\Debug\CheckPoint9.Form1.resources
+H:\programming 2\lis19\CheckPoint9\CheckPoint9\CheckPoint9\obj\Debug\CheckPoint9.Properties.Resources.resources
+H:\programming 2\lis19\CheckPoint9\CheckPoint9\CheckPoint9\obj\Debug\CheckPoint9.csproj.GenerateResource.Cache
+H:\programming 2\lis19\CheckPoint9\CheckPoint9\CheckPoint9\obj\Debug\CheckPoint9.csproj.CoreCompileInputs.cache
+H:\programming 2\lis19\CheckPoint9\CheckPoint9\CheckPoint9\obj\Debug\CheckPoint9.exe
+H:\programming 2\lis19\CheckPoint9\CheckPoint9\CheckPoint9\obj\Debug\CheckPoint9.pdb
+H:\programming 2\lis19\CheckPoint9\CheckPoint9\CheckPoint9\obj\Debug\CheckPoint9.csprojResolveAssemblyReference.cache

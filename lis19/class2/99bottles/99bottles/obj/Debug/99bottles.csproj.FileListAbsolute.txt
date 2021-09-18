@@ -1,0 +1,10 @@
+H:\programming 2\class2\99bottles\99bottles\bin\Debug\99bottles.exe.config
+H:\programming 2\class2\99bottles\99bottles\bin\Debug\99bottles.exe
+H:\programming 2\class2\99bottles\99bottles\bin\Debug\99bottles.pdb
+H:\programming 2\class2\99bottles\99bottles\obj\Debug\_99bottles.Form1.resources
+H:\programming 2\class2\99bottles\99bottles\obj\Debug\_99bottles.Properties.Resources.resources
+H:\programming 2\class2\99bottles\99bottles\obj\Debug\99bottles.csproj.GenerateResource.cache
+H:\programming 2\class2\99bottles\99bottles\obj\Debug\99bottles.csproj.CoreCompileInputs.cache
+H:\programming 2\class2\99bottles\99bottles\obj\Debug\99bottles.exe
+H:\programming 2\class2\99bottles\99bottles\obj\Debug\99bottles.pdb
+H:\programming 2\class2\99bottles\99bottles\obj\Debug\99bottles.csprojResolveAssemblyReference.cache

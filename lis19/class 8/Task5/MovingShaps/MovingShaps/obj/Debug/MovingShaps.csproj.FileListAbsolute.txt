@@ -1,0 +1,10 @@
+H:\programming 2\lis19\class 8\Task5\MovingShaps\MovingShaps\bin\Debug\MovingShaps.exe.config
+H:\programming 2\lis19\class 8\Task5\MovingShaps\MovingShaps\bin\Debug\MovingShaps.exe
+H:\programming 2\lis19\class 8\Task5\MovingShaps\MovingShaps\bin\Debug\MovingShaps.pdb
+H:\programming 2\lis19\class 8\Task5\MovingShaps\MovingShaps\obj\Debug\MovingShaps.csprojResolveAssemblyReference.cache
+H:\programming 2\lis19\class 8\Task5\MovingShaps\MovingShaps\obj\Debug\MovingShaps.Form1.resources
+H:\programming 2\lis19\class 8\Task5\MovingShaps\MovingShaps\obj\Debug\MovingShaps.Properties.Resources.resources
+H:\programming 2\lis19\class 8\Task5\MovingShaps\MovingShaps\obj\Debug\MovingShaps.csproj.GenerateResource.Cache
+H:\programming 2\lis19\class 8\Task5\MovingShaps\MovingShaps\obj\Debug\MovingShaps.csproj.CoreCompileInputs.cache
+H:\programming 2\lis19\class 8\Task5\MovingShaps\MovingShaps\obj\Debug\MovingShaps.exe
+H:\programming 2\lis19\class 8\Task5\MovingShaps\MovingShaps\obj\Debug\MovingShaps.pdb

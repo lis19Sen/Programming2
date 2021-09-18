@@ -1,0 +1,20 @@
+H:\programming 2\lis19\class7\CHECKPOINT7\LonneyTuneHorseRace\LonneyTuneHorseRace\bin\Debug\LonneyTuneHorseRace.exe.config
+H:\programming 2\lis19\class7\CHECKPOINT7\LonneyTuneHorseRace\LonneyTuneHorseRace\bin\Debug\LonneyTuneHorseRace.exe
+H:\programming 2\lis19\class7\CHECKPOINT7\LonneyTuneHorseRace\LonneyTuneHorseRace\bin\Debug\LonneyTuneHorseRace.pdb
+H:\programming 2\lis19\class7\CHECKPOINT7\LonneyTuneHorseRace\LonneyTuneHorseRace\obj\Debug\LonneyTuneHorseRace.csprojAssemblyReference.cache
+H:\programming 2\lis19\class7\CHECKPOINT7\LonneyTuneHorseRace\LonneyTuneHorseRace\obj\Debug\LonneyTuneHorseRace.Form1.resources
+H:\programming 2\lis19\class7\CHECKPOINT7\LonneyTuneHorseRace\LonneyTuneHorseRace\obj\Debug\LonneyTuneHorseRace.Properties.Resources.resources
+H:\programming 2\lis19\class7\CHECKPOINT7\LonneyTuneHorseRace\LonneyTuneHorseRace\obj\Debug\LonneyTuneHorseRace.csproj.GenerateResource.cache
+H:\programming 2\lis19\class7\CHECKPOINT7\LonneyTuneHorseRace\LonneyTuneHorseRace\obj\Debug\LonneyTuneHorseRace.csproj.CoreCompileInputs.cache
+H:\programming 2\lis19\class7\CHECKPOINT7\LonneyTuneHorseRace\LonneyTuneHorseRace\obj\Debug\LonneyTuneHorseRace.exe
+H:\programming 2\lis19\class7\CHECKPOINT7\LonneyTuneHorseRace\LonneyTuneHorseRace\obj\Debug\LonneyTuneHorseRace.pdb
+H:\programming 2\lis19\class7\CHECKPOINT7 - Copy\LonneyTuneHorseRace\LonneyTuneHorseRace\bin\Debug\LonneyTuneHorseRace.exe.config
+H:\programming 2\lis19\class7\CHECKPOINT7 - Copy\LonneyTuneHorseRace\LonneyTuneHorseRace\bin\Debug\LonneyTuneHorseRace.exe
+H:\programming 2\lis19\class7\CHECKPOINT7 - Copy\LonneyTuneHorseRace\LonneyTuneHorseRace\bin\Debug\LonneyTuneHorseRace.pdb
+H:\programming 2\lis19\class7\CHECKPOINT7 - Copy\LonneyTuneHorseRace\LonneyTuneHorseRace\obj\Debug\LonneyTuneHorseRace.csprojAssemblyReference.cache
+H:\programming 2\lis19\class7\CHECKPOINT7 - Copy\LonneyTuneHorseRace\LonneyTuneHorseRace\obj\Debug\LonneyTuneHorseRace.Form1.resources
+H:\programming 2\lis19\class7\CHECKPOINT7 - Copy\LonneyTuneHorseRace\LonneyTuneHorseRace\obj\Debug\LonneyTuneHorseRace.Properties.Resources.resources
+H:\programming 2\lis19\class7\CHECKPOINT7 - Copy\LonneyTuneHorseRace\LonneyTuneHorseRace\obj\Debug\LonneyTuneHorseRace.csproj.GenerateResource.cache
+H:\programming 2\lis19\class7\CHECKPOINT7 - Copy\LonneyTuneHorseRace\LonneyTuneHorseRace\obj\Debug\LonneyTuneHorseRace.csproj.CoreCompileInputs.cache
+H:\programming 2\lis19\class7\CHECKPOINT7 - Copy\LonneyTuneHorseRace\LonneyTuneHorseRace\obj\Debug\LonneyTuneHorseRace.exe
+H:\programming 2\lis19\class7\CHECKPOINT7 - Copy\LonneyTuneHorseRace\LonneyTuneHorseRace\obj\Debug\LonneyTuneHorseRace.pdb

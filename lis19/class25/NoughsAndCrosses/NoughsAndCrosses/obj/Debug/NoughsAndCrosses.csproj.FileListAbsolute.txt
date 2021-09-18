@@ -1,0 +1,10 @@
+H:\programming 2\lis19\class25\NoughsAndCrosses\NoughsAndCrosses\bin\Debug\NoughsAndCrosses.exe.config
+H:\programming 2\lis19\class25\NoughsAndCrosses\NoughsAndCrosses\bin\Debug\NoughsAndCrosses.exe
+H:\programming 2\lis19\class25\NoughsAndCrosses\NoughsAndCrosses\bin\Debug\NoughsAndCrosses.pdb
+H:\programming 2\lis19\class25\NoughsAndCrosses\NoughsAndCrosses\obj\Debug\NoughsAndCrosses.Form1.resources
+H:\programming 2\lis19\class25\NoughsAndCrosses\NoughsAndCrosses\obj\Debug\NoughsAndCrosses.Properties.Resources.resources
+H:\programming 2\lis19\class25\NoughsAndCrosses\NoughsAndCrosses\obj\Debug\NoughsAndCrosses.csproj.GenerateResource.Cache
+H:\programming 2\lis19\class25\NoughsAndCrosses\NoughsAndCrosses\obj\Debug\NoughsAndCrosses.csproj.CoreCompileInputs.cache
+H:\programming 2\lis19\class25\NoughsAndCrosses\NoughsAndCrosses\obj\Debug\NoughsAndCrosses.exe
+H:\programming 2\lis19\class25\NoughsAndCrosses\NoughsAndCrosses\obj\Debug\NoughsAndCrosses.pdb
+H:\programming 2\lis19\class25\NoughsAndCrosses\NoughsAndCrosses\obj\Debug\NoughsAndCrosses.csprojAssemblyReference.cache

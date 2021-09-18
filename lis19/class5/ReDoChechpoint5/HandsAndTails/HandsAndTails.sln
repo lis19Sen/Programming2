@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HandsAndTails", "HandsAndTails\HandsAndTails.csproj", "{0B7BE868-733F-40DA-A490-3AAD9259542E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B7BE868-733F-40DA-A490-3AAD9259542E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B7BE868-733F-40DA-A490-3AAD9259542E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B7BE868-733F-40DA-A490-3AAD9259542E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B7BE868-733F-40DA-A490-3AAD9259542E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E31C2D71-44CF-45BB-B720-1D73AF9B9203}
+	EndGlobalSection
+EndGlobal

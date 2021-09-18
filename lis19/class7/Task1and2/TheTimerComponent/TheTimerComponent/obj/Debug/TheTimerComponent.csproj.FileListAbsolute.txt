@@ -1,0 +1,10 @@
+H:\programming 2\lis19\class7\Task1\TheTimerComponent\TheTimerComponent\bin\Debug\TheTimerComponent.exe.config
+H:\programming 2\lis19\class7\Task1\TheTimerComponent\TheTimerComponent\bin\Debug\TheTimerComponent.exe
+H:\programming 2\lis19\class7\Task1\TheTimerComponent\TheTimerComponent\bin\Debug\TheTimerComponent.pdb
+H:\programming 2\lis19\class7\Task1\TheTimerComponent\TheTimerComponent\obj\Debug\TheTimerComponent.csprojAssemblyReference.cache
+H:\programming 2\lis19\class7\Task1\TheTimerComponent\TheTimerComponent\obj\Debug\TheTimerComponent.Form1.resources
+H:\programming 2\lis19\class7\Task1\TheTimerComponent\TheTimerComponent\obj\Debug\TheTimerComponent.Properties.Resources.resources
+H:\programming 2\lis19\class7\Task1\TheTimerComponent\TheTimerComponent\obj\Debug\TheTimerComponent.csproj.GenerateResource.cache
+H:\programming 2\lis19\class7\Task1\TheTimerComponent\TheTimerComponent\obj\Debug\TheTimerComponent.csproj.CoreCompileInputs.cache
+H:\programming 2\lis19\class7\Task1\TheTimerComponent\TheTimerComponent\obj\Debug\TheTimerComponent.exe
+H:\programming 2\lis19\class7\Task1\TheTimerComponent\TheTimerComponent\obj\Debug\TheTimerComponent.pdb

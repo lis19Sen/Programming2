@@ -1,0 +1,11 @@
+H:\programming 2\lis19\PacmanAssignment\Pacman-SenLI\Pacman-SenLI\obj\Debug\Pacman-SenLI.csprojResolveAssemblyReference.cache
+H:\programming 2\lis19\PacmanAssignment\Pacman-SenLI\Pacman-SenLI\obj\Debug\Pacman_SenLI.Form1.resources
+H:\programming 2\lis19\PacmanAssignment\Pacman-SenLI\Pacman-SenLI\obj\Debug\Pacman_SenLI.Properties.Resources.resources
+H:\programming 2\lis19\PacmanAssignment\Pacman-SenLI\Pacman-SenLI\obj\Debug\Pacman-SenLI.csproj.GenerateResource.Cache
+H:\programming 2\lis19\PacmanAssignment\Pacman-SenLI\Pacman-SenLI\obj\Debug\Pacman-SenLI.csproj.CoreCompileInputs.cache
+H:\programming 2\lis19\PacmanAssignment\Pacman-SenLI\Pacman-SenLI\bin\Debug\Pacman-SenLI.exe.config
+H:\programming 2\lis19\PacmanAssignment\Pacman-SenLI\Pacman-SenLI\bin\Debug\Pacman-SenLI.exe
+H:\programming 2\lis19\PacmanAssignment\Pacman-SenLI\Pacman-SenLI\bin\Debug\Pacman-SenLI.pdb
+H:\programming 2\lis19\PacmanAssignment\Pacman-SenLI\Pacman-SenLI\obj\Debug\Pacman-SenLI.exe
+H:\programming 2\lis19\PacmanAssignment\Pacman-SenLI\Pacman-SenLI\obj\Debug\Pacman-SenLI.pdb
+H:\programming 2\lis19\PacmanAssignment\Pacman-SenLI\Pacman-SenLI\obj\Debug\Pacman-SenLI.csprojAssemblyReference.cache

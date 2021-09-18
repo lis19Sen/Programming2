@@ -1,0 +1,21 @@
+H:\RedoAssignment\RedoAssignment\bin\Debug\RedoAssignment.exe.config
+H:\RedoAssignment\RedoAssignment\bin\Debug\RedoAssignment.exe
+H:\RedoAssignment\RedoAssignment\bin\Debug\RedoAssignment.pdb
+H:\RedoAssignment\RedoAssignment\obj\Debug\RedoAssignment.csprojResolveAssemblyReference.cache
+H:\RedoAssignment\RedoAssignment\obj\Debug\RedoAssignment.Form1.resources
+H:\RedoAssignment\RedoAssignment\obj\Debug\RedoAssignment.Properties.Resources.resources
+H:\RedoAssignment\RedoAssignment\obj\Debug\RedoAssignment.csproj.GenerateResource.Cache
+H:\RedoAssignment\RedoAssignment\obj\Debug\RedoAssignment.csproj.CoreCompileInputs.cache
+H:\RedoAssignment\RedoAssignment\obj\Debug\RedoAssignment.exe
+H:\RedoAssignment\RedoAssignment\obj\Debug\RedoAssignment.pdb
+H:\programming 2\lis19\RedoAssignment\RedoAssignment\bin\Debug\RedoAssignment.exe.config
+H:\programming 2\lis19\RedoAssignment\RedoAssignment\bin\Debug\RedoAssignment.exe
+H:\programming 2\lis19\RedoAssignment\RedoAssignment\bin\Debug\RedoAssignment.pdb
+H:\programming 2\lis19\RedoAssignment\RedoAssignment\obj\Debug\RedoAssignment.Form1.resources
+H:\programming 2\lis19\RedoAssignment\RedoAssignment\obj\Debug\RedoAssignment.Properties.Resources.resources
+H:\programming 2\lis19\RedoAssignment\RedoAssignment\obj\Debug\RedoAssignment.csproj.GenerateResource.Cache
+H:\programming 2\lis19\RedoAssignment\RedoAssignment\obj\Debug\RedoAssignment.csproj.CoreCompileInputs.cache
+H:\programming 2\lis19\RedoAssignment\RedoAssignment\obj\Debug\RedoAssignment.exe
+H:\programming 2\lis19\RedoAssignment\RedoAssignment\obj\Debug\RedoAssignment.pdb
+H:\programming 2\lis19\RedoAssignment\RedoAssignment\obj\Debug\RedoAssignment.MainForm.resources
+H:\programming 2\lis19\RedoAssignment\RedoAssignment\obj\Debug\RedoAssignment.csprojAssemblyReference.cache
