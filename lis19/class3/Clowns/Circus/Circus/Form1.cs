@@ -24,8 +24,6 @@ namespace Circus
 {
     public partial class Form1 : Form
     {
-
-
         //to creat clown array
         private Clown[] clown = new Clown[4];
            
