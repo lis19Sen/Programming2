@@ -30,8 +30,7 @@ namespace Animator
             images = new Image[NIMAGES];
             for (int i = 0; i < images.Length; i++)
             {
-                images[i] = (Bitmap)Properties.Resources.ResourceManager.GetObject("T" + i.ToString());
-               
+                images[i] = (Bitmap)Properties.Resources.ResourceManager.GetObject("T" + i.ToString()); 
             }
             this.pictureBox = pictureBox;
         }
@@ -44,10 +43,7 @@ namespace Animator
                 pictureBox.Image = images[i];
                 Application.DoEvents();
                 Thread.Sleep(SLEEPINTERVAL);
-            }
-           
-            
+            } 
         }
-
     }
 }
