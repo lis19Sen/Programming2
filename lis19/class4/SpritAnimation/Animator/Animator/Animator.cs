@@ -26,7 +26,7 @@ namespace Animator
         // constructor
         public Animator(PictureBox pictureBox)
         {
-            //images = new Image[11]; has the same meaning with down sentence
+            //images = new Image[11]; //has the same meaning with down sentence
             images = new Image[NIMAGES];
             for (int i = 0; i < images.Length; i++)
             {
